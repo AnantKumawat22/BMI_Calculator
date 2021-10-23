@@ -287,10 +287,7 @@ body {
     width: 100%;
   }
   .center_div_1, .center_div_2{
+    width: 100%;
     padding: 20px 10px 20px 20px;
-  }
-  #height_inches {
-    margin-left: 103px;
-    margin-top: 10px;
   }
 }
